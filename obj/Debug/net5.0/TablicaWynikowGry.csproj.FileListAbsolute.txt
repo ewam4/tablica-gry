@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\TablicaWynikowGry\bin\Debug\net5.0\TablicaWynikowGry.exe
+C:\Users\Student\source\repos\TablicaWynikowGry\bin\Debug\net5.0\TablicaWynikowGry.deps.json
+C:\Users\Student\source\repos\TablicaWynikowGry\bin\Debug\net5.0\TablicaWynikowGry.runtimeconfig.json
+C:\Users\Student\source\repos\TablicaWynikowGry\bin\Debug\net5.0\TablicaWynikowGry.runtimeconfig.dev.json
+C:\Users\Student\source\repos\TablicaWynikowGry\bin\Debug\net5.0\TablicaWynikowGry.dll
+C:\Users\Student\source\repos\TablicaWynikowGry\bin\Debug\net5.0\ref\TablicaWynikowGry.dll
+C:\Users\Student\source\repos\TablicaWynikowGry\bin\Debug\net5.0\TablicaWynikowGry.pdb
+C:\Users\Student\source\repos\TablicaWynikowGry\obj\Debug\net5.0\TablicaWynikowGry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\TablicaWynikowGry\obj\Debug\net5.0\TablicaWynikowGry.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\TablicaWynikowGry\obj\Debug\net5.0\TablicaWynikowGry.AssemblyInfo.cs
+C:\Users\Student\source\repos\TablicaWynikowGry\obj\Debug\net5.0\TablicaWynikowGry.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TablicaWynikowGry\obj\Debug\net5.0\TablicaWynikowGry.dll
+C:\Users\Student\source\repos\TablicaWynikowGry\obj\Debug\net5.0\ref\TablicaWynikowGry.dll
+C:\Users\Student\source\repos\TablicaWynikowGry\obj\Debug\net5.0\TablicaWynikowGry.pdb
+C:\Users\Student\source\repos\TablicaWynikowGry\obj\Debug\net5.0\TablicaWynikowGry.genruntimeconfig.cache
